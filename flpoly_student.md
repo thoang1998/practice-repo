@@ -4,9 +4,9 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precalculus/Algebra/Trigonometry
 
-- Course 2
+- Intro to Data Science
 
 - Course 3
 
@@ -16,11 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Gaming
 
-- Thing 2
+- writing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- drawing
 
 ***
 
