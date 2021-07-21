@@ -1,17 +1,13 @@
 ## __Thien Hoang__
 
-### 2021 
+### ***2021*** 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
-|Intro to Data Science|
-|---------------------|
-- Precalculus/Algebra/Trigonometry
+|Classes              |Credits|
+|:--------------------|:------|
+| Precalculus         | 1     |
+|Intro to Data Science| 1     |
 
-- Intro to Data Science
-
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
